@@ -22,10 +22,10 @@ Below are the instructions for this assignment. Your repository should automatic
 
 ### 📝 TODO: Complete this section
 
-* **Your name and PID**:
+* **Your name and PID**: Shuban Sridhar shubansridhar
 
-* **Your partner's name and PID:**
+* **Your partner's name and PID:** Jett Morrow jettmorrow
 
-* **Link to selected coding challenge:**
+* **Link to selected coding challenge:** https://leetcode.com/problems/number-of-islands/description/
 
-* **Summary of partner's interview feedback:**
+* **Summary of partner's interview feedback:** My partner told me to slow down and explain each step of my thinking process as I continue to code. A few times I would write code without saying much and in an interview that would probably not me ideal. Although the solution was correct, the steps of developing that solution need to be expressed more clearly. 
